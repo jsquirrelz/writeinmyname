@@ -10,3 +10,6 @@ kramdown:
   syntax_highlighter: rouge
 theme: jekyll-theme-cayman
 google_analytics: G-ZFF1LCR9YC
+paypal:
+  accept_donations: true
+  donate_url: https://www.paypal.com/donate/?hosted_button_id=P7TX8SKF45TGU

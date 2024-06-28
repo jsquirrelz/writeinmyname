@@ -18,6 +18,9 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">Justin Michael Searles</h1>
       <h2 class="project-tagline">Because "literally anyone else" is now a viable option.</h2>
+      {% if site.paypal.accept_donations %}
+        <a href="{{ site.paypal.donate_url }}" class="btn">Donate</a>
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">

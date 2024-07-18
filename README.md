@@ -16,15 +16,6 @@ Yes. I am a natural-born citizen of the United States (14th generation), over th
 ## Are you serious?
 Why not? I'm not saying I'm going to win, but I'm not saying I'm not going to win. And if I do win, I promise to be the best president I can be. And if I don't win, then I'll just go back to being a software engineer.
 
-## What are your policies?
-I'm not a politician, so I don't have any policies. But I do have some ideas:
-- Surround myself with people smarter than me
-- Listen to the experts
-- Make decisions based on data
-- Be honest and transparent
-- Do what's best for the country
-- Be humble and accountable
-
 ## How can I help?
 You can help by spreading the word, donating money, or volunteering your time. You can also write in my name on your ballot in the 2024 US presidential election.
 
